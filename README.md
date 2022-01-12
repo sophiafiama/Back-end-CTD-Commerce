@@ -1,4 +1,5 @@
 # Back-end-CTD-Commerce
+Back-end: Java, Spring Framework - modelo MVC distribuido pelo AWS ElasticBeanStalk, Banco de dados H2 no AWS RDS.
 Requisitos Back-end:
 Back-end de nosso e-commerce em Java com o Framework Spring no modelo MVC.
 O banco de dados deverá ser o H2. 
